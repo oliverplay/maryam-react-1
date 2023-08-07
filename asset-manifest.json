@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maryam-react-1/static/css/main.86b08deb.css",
+    "main.js": "/maryam-react-1/static/js/main.ed7cda6f.js",
+    "index.html": "/maryam-react-1/index.html",
+    "main.86b08deb.css.map": "/maryam-react-1/static/css/main.86b08deb.css.map",
+    "main.ed7cda6f.js.map": "/maryam-react-1/static/js/main.ed7cda6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86b08deb.css",
+    "static/js/main.ed7cda6f.js"
+  ]
+}
