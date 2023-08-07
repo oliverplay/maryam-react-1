@@ -4,7 +4,7 @@ import Profile from 'components/Profile';
 const App = () => {
   return (
     <div>
-      App
+      Hello Maryam! No worries;)
       <Profile />
     </div>
   );
