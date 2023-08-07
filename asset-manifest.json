@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/maryam-react-1/static/css/main.86b08deb.css",
-    "main.js": "/maryam-react-1/static/js/main.ed7cda6f.js",
+    "main.css": "/maryam-react-1/static/css/main.b6ec136d.css",
+    "main.js": "/maryam-react-1/static/js/main.6b3317bf.js",
     "index.html": "/maryam-react-1/index.html",
-    "main.86b08deb.css.map": "/maryam-react-1/static/css/main.86b08deb.css.map",
-    "main.ed7cda6f.js.map": "/maryam-react-1/static/js/main.ed7cda6f.js.map"
+    "main.b6ec136d.css.map": "/maryam-react-1/static/css/main.b6ec136d.css.map",
+    "main.6b3317bf.js.map": "/maryam-react-1/static/js/main.6b3317bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.86b08deb.css",
-    "static/js/main.ed7cda6f.js"
+    "static/css/main.b6ec136d.css",
+    "static/js/main.6b3317bf.js"
   ]
 }
